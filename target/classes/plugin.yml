@@ -1,0 +1,9 @@
+name: ExTasTy
+author: BungeeCore
+version: 1.0
+main: me.bungee.extasty.Extasty
+commands:
+     heal:
+          description: Heile dich selbst oder andere Spieler
+     gm:
+          description: Ändere deinen GameMode
